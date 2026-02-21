@@ -7,4 +7,4 @@ Infrastrukutur
 - Sistem share data(H2H, API dll)
 
 # Progeam
-- Laravel 10
+- Laravel 10^
