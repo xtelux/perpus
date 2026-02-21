@@ -1,0 +1,4 @@
+Rencana 
+- Modul
+- View
+- Controller
